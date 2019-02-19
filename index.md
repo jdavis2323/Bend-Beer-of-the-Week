@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bend Beer of the Week
 
 You can use the [editor on GitHub](https://github.com/jdavis2323/Bend-Beer-of-the-Week/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
